@@ -1,0 +1,93 @@
+html, body{
+height: 100%;
+width: 100%;
+
+}
+header{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(13, 221, 221);
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+#leftsidebar{
+    height: 100%;
+    width: 30%;
+    background-color: white;
+    float: left;
+    margin-left: 2%;
+}
+#para{
+    background-color:rgb(224, 223, 223);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#para1{
+    color: green;
+    padding-left: 20%;
+    font-size: 20px;
+}
+#main{
+    height: 100%;
+    width: 30%;
+    float: left;
+    margin-left: 2.5%;
+}
+h2{
+    text-align: left;
+    color: green;
+    font-size: 25px;
+
+}
+#p{
+    background-color: rgb(71, 175, 71);
+    
+
+}
+#p5 {
+    font-size: 15px;
+    background-color: rgb(232, 230, 230);
+}
+#span{
+    margin-left: 100px;
+}
+#container{
+    width: 100%;
+    display: flex;
+
+}
+#p6{
+    width: 20%;
+    background-color: gray;
+}
+#p7{
+    background-color: green;
+    width: 2%;
+}
+#p8{
+    background-color: gray;
+    width: 78%;
+}
+
+#right-side-bar{
+    width: 30%;
+    height: 100%;
+    margin-left: 2%;
+    float: right;
+
+}
+
+.slider{
+
+    height:2px;
+    width:100px;
+    background-color: gray;
+
+
+}
